@@ -25,6 +25,7 @@ An indie hacker is an independent creator who builds projects and makes money in
 - [Stacking The Bricks](https://stackingthebricks.com/)
 - [Tiny Little Businesses](https://tinylittlebusinesses.com/)
 - [The Bootstrapped Founder](https://thebootstrappedfounder.com/)
+- [One Person Company](https://onepersoncompany.com/)
 
 ## 📖 Books
 
